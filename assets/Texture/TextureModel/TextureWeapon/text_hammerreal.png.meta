@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6a559b17-8b3c-4a9a-af94-ffb75eb96542",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "text_hammerreal": {
+      "ver": "1.0.4",
+      "uuid": "36f9c99f-f75c-42b8-b32e-13caeecf21ae",
+      "rawTextureUuid": "6a559b17-8b3c-4a9a-af94-ffb75eb96542",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 1024,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6a559b17-8b3c-4a9a-af94-ffb75eb96542@6c48a",
+      "displayName": "text_hammerreal",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6a559b17-8b3c-4a9a-af94-ffb75eb96542",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "6a559b17-8b3c-4a9a-af94-ffb75eb96542@6c48a"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b5a9f457-cfac-4036-a1ee-90fa838e94ff",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "TryAgain_KR": {
+      "ver": "1.0.4",
+      "uuid": "47e35e11-3f89-4708-952a-8577a85b960e",
+      "rawTextureUuid": "b5a9f457-cfac-4036-a1ee-90fa838e94ff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 240,
+      "height": 75,
+      "rawWidth": 240,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b5a9f457-cfac-4036-a1ee-90fa838e94ff@6c48a",
+      "displayName": "TryAgain_KR",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b5a9f457-cfac-4036-a1ee-90fa838e94ff",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "b5a9f457-cfac-4036-a1ee-90fa838e94ff@6c48a"
+  }
+}

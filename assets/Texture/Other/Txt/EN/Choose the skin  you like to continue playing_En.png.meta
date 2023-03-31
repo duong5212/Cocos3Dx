@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "1ac64fbb-d777-4fd8-a6a9-b4a02537f1f2",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "Choose the skin  you like to continue playing_En": {
+      "ver": "1.0.4",
+      "uuid": "d7895324-c977-483b-80ea-f7a2599136a3",
+      "rawTextureUuid": "1ac64fbb-d777-4fd8-a6a9-b4a02537f1f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 589,
+      "height": 90,
+      "rawWidth": 589,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "1ac64fbb-d777-4fd8-a6a9-b4a02537f1f2@6c48a",
+      "displayName": "Choose the skin  you like to continue playing_En",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1ac64fbb-d777-4fd8-a6a9-b4a02537f1f2",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "1ac64fbb-d777-4fd8-a6a9-b4a02537f1f2@6c48a"
+  }
+}

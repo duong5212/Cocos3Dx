@@ -1,0 +1,16 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 960,
+      "fitWidth": false,
+      "fitHeight": true
+    }
+  },
+  "layer": [
+    {
+      "name": "POINTSHOT",
+      "value": 1
+    }
+  ]
+}

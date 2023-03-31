@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e701a48b-7164-47f8-9857-f7a1a84c750e",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "download_kr": {
+      "ver": "1.0.4",
+      "uuid": "5be8b41d-1ba5-4153-b049-37ef6f7f7f71",
+      "rawTextureUuid": "e701a48b-7164-47f8-9857-f7a1a84c750e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 262,
+      "height": 125,
+      "rawWidth": 262,
+      "rawHeight": 125,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e701a48b-7164-47f8-9857-f7a1a84c750e@6c48a",
+      "displayName": "download_kr",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e701a48b-7164-47f8-9857-f7a1a84c750e",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "e701a48b-7164-47f8-9857-f7a1a84c750e@6c48a"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "cc9b3c1c-22c5-4340-920d-7f5f7e0a5963",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "skin_captain_A": {
+      "ver": "1.0.4",
+      "uuid": "8d988e8e-6d14-475b-a12b-bedc90ed3722",
+      "rawTextureUuid": "cc9b3c1c-22c5-4340-920d-7f5f7e0a5963",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "cc9b3c1c-22c5-4340-920d-7f5f7e0a5963@6c48a",
+      "displayName": "skin_captain_A",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cc9b3c1c-22c5-4340-920d-7f5f7e0a5963",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "cc9b3c1c-22c5-4340-920d-7f5f7e0a5963@6c48a"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "310e9": {
+      "importer": "gltf-mesh",
+      "uuid": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@310e9",
+      "displayName": "",
+      "id": "310e9",
+      "name": "among_us.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8333333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c14dd": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@c14dd",
+      "displayName": "",
+      "id": "c14dd",
+      "name": "black_2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a1576": {
+      "importer": "texture",
+      "uuid": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@a1576",
+      "displayName": "",
+      "id": "a1576",
+      "name": "black_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@c14dd"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6e83": {
+      "importer": "gltf-material",
+      "uuid": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@c6e83",
+      "displayName": "",
+      "id": "c6e83",
+      "name": "black_2Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f850": {
+      "importer": "gltf-scene",
+      "uuid": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@4f850",
+      "displayName": "",
+      "id": "4f850",
+      "name": "among-us-die-sword.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "black_2",
+        "uri": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@c14dd"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.8333333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 0.8333333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@4f850",
+    "assetFinder": {
+      "meshes": [
+        "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@310e9"
+      ],
+      "skeletons": [
+        "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@438fe"
+      ],
+      "textures": [
+        "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@a1576"
+      ],
+      "materials": [
+        "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@c6e83"
+      ],
+      "scenes": [
+        "ef50f0f0-a176-4b1d-939c-ba2b3dfe08c8@4f850"
+      ]
+    }
+  }
+}

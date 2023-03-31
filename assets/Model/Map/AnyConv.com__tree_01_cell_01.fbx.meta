@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "02915cb1-f51b-4355-9447-04145b939ee9",
+  "files": [],
+  "subMetas": {
+    "e43c0": {
+      "importer": "gltf-mesh",
+      "uuid": "02915cb1-f51b-4355-9447-04145b939ee9@e43c0",
+      "displayName": "",
+      "id": "e43c0",
+      "name": "tree_01_cell_01_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "02915cb1-f51b-4355-9447-04145b939ee9@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a044": {
+      "importer": "gltf-scene",
+      "uuid": "02915cb1-f51b-4355-9447-04145b939ee9@9a044",
+      "displayName": "",
+      "id": "9a044",
+      "name": "AnyConv.com__tree_01_cell_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "02915cb1-f51b-4355-9447-04145b939ee9@9a044",
+    "assetFinder": {
+      "meshes": [
+        "02915cb1-f51b-4355-9447-04145b939ee9@e43c0"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "02915cb1-f51b-4355-9447-04145b939ee9@ea6e2"
+      ],
+      "scenes": [
+        "02915cb1-f51b-4355-9447-04145b939ee9@9a044"
+      ]
+    }
+  }
+}

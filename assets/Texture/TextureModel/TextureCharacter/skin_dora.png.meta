@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b80d9b21-b3d4-42d4-a066-7c32c6024c6c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "skin_dora": {
+      "ver": "1.0.4",
+      "uuid": "4be6ea03-9396-4ff5-868a-c91817ff91ea",
+      "rawTextureUuid": "b80d9b21-b3d4-42d4-a066-7c32c6024c6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 427,
+      "height": 427,
+      "rawWidth": 427,
+      "rawHeight": 427,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b80d9b21-b3d4-42d4-a066-7c32c6024c6c@6c48a",
+      "displayName": "skin_dora",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b80d9b21-b3d4-42d4-a066-7c32c6024c6c",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "b80d9b21-b3d4-42d4-a066-7c32c6024c6c@6c48a"
+  }
+}

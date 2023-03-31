@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d389bdab-f62d-4074-bbb1-b9de8d7ef067",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "skin_ninja": {
+      "ver": "1.0.4",
+      "uuid": "ba4a8fa1-4877-44b1-b4eb-d59436a05da2",
+      "rawTextureUuid": "d389bdab-f62d-4074-bbb1-b9de8d7ef067",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d389bdab-f62d-4074-bbb1-b9de8d7ef067@6c48a",
+      "displayName": "skin_ninja",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d389bdab-f62d-4074-bbb1-b9de8d7ef067",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": false,
+    "redirect": "d389bdab-f62d-4074-bbb1-b9de8d7ef067@6c48a"
+  }
+}

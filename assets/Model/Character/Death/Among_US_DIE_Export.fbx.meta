@@ -1,0 +1,171 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "61903": {
+      "importer": "gltf-mesh",
+      "uuid": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@61903",
+      "displayName": "",
+      "id": "61903",
+      "name": "Among_Us_Die1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.4333333373069763
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 9
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5299e": {
+      "importer": "gltf-material",
+      "uuid": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@5299e",
+      "displayName": "",
+      "id": "5299e",
+      "name": "among_die_lambert25SG3.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6d8": {
+      "importer": "gltf-material",
+      "uuid": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@7d6d8",
+      "displayName": "",
+      "id": "7d6d8",
+      "name": "among_die_lambert26SG3.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fd9d": {
+      "importer": "gltf-material",
+      "uuid": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@3fd9d",
+      "displayName": "",
+      "id": "3fd9d",
+      "name": "among_die_lambert27SG3.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d72f": {
+      "importer": "gltf-scene",
+      "uuid": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@3d72f",
+      "displayName": "",
+      "id": "3d72f",
+      "name": "Among_US_DIE_Export.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.4333333373069763,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 0.4333333373069763,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@3d72f",
+    "assetFinder": {
+      "meshes": [
+        "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@61903"
+      ],
+      "skeletons": [
+        "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@5299e",
+        "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@7d6d8",
+        "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@3fd9d"
+      ],
+      "scenes": [
+        "53a0c223-4043-4d0b-b9c3-08f0cdef3e46@3d72f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "aa11612b-c23f-46cb-970c-26e2a2ff1da0",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "HoldToRun_KR": {
+      "ver": "1.0.4",
+      "uuid": "2aad98ba-c63a-40a9-a777-91c7c99ccce2",
+      "rawTextureUuid": "aa11612b-c23f-46cb-970c-26e2a2ff1da0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 464,
+      "height": 93,
+      "rawWidth": 464,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "aa11612b-c23f-46cb-970c-26e2a2ff1da0@6c48a",
+      "displayName": "HoldToRun_KR",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aa11612b-c23f-46cb-970c-26e2a2ff1da0",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "aa11612b-c23f-46cb-970c-26e2a2ff1da0@6c48a"
+  }
+}

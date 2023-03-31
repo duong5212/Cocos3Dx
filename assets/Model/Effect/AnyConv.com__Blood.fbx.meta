@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cc69ea88-0ed4-451d-a611-ca6e2677bada",
+  "files": [],
+  "subMetas": {
+    "70274": {
+      "importer": "gltf-mesh",
+      "uuid": "cc69ea88-0ed4-451d-a611-ca6e2677bada@70274",
+      "displayName": "",
+      "id": "70274",
+      "name": "Blood1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6090": {
+      "importer": "gltf-material",
+      "uuid": "cc69ea88-0ed4-451d-a611-ca6e2677bada@a6090",
+      "displayName": "",
+      "id": "a6090",
+      "name": "lambert57SG.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e93ce": {
+      "importer": "gltf-scene",
+      "uuid": "cc69ea88-0ed4-451d-a611-ca6e2677bada@e93ce",
+      "displayName": "",
+      "id": "e93ce",
+      "name": "AnyConv.com__Blood.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cc69ea88-0ed4-451d-a611-ca6e2677bada@e93ce",
+    "assetFinder": {
+      "meshes": [
+        "cc69ea88-0ed4-451d-a611-ca6e2677bada@70274"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "cc69ea88-0ed4-451d-a611-ca6e2677bada@a6090"
+      ],
+      "scenes": [
+        "cc69ea88-0ed4-451d-a611-ca6e2677bada@e93ce"
+      ]
+    }
+  }
+}

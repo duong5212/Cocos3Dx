@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "52295199-a241-41c5-a64c-954a7f719aec",
+  "files": [],
+  "subMetas": {
+    "44342": {
+      "importer": "gltf-scene",
+      "uuid": "52295199-a241-41c5-a64c-954a7f719aec@44342",
+      "displayName": "",
+      "id": "44342",
+      "name": "AnyConv.com__IronMan.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51173": {
+      "importer": "gltf-mesh",
+      "uuid": "52295199-a241-41c5-a64c-954a7f719aec@51173",
+      "displayName": "",
+      "id": "51173",
+      "name": "IronMan_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "52295199-a241-41c5-a64c-954a7f719aec@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "52295199-a241-41c5-a64c-954a7f719aec@44342",
+    "assetFinder": {
+      "meshes": [
+        "52295199-a241-41c5-a64c-954a7f719aec@51173"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "52295199-a241-41c5-a64c-954a7f719aec@ea6e2"
+      ],
+      "scenes": [
+        "52295199-a241-41c5-a64c-954a7f719aec@44342"
+      ]
+    }
+  }
+}

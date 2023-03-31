@@ -1,0 +1,136 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "a9923": {
+      "importer": "gltf-mesh",
+      "uuid": "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@a9923",
+      "displayName": "",
+      "id": "a9923",
+      "name": "Body_Boss_Crewmesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc366": {
+      "importer": "gltf-mesh",
+      "uuid": "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@dc366",
+      "displayName": "",
+      "id": "dc366",
+      "name": "Body_Boss_Crew_0mesh.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18d6f": {
+      "importer": "gltf-animation",
+      "uuid": "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@18d6f",
+      "displayName": "",
+      "id": "18d6f",
+      "name": "mixamo.com.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.200000047683716
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 28
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bde5a": {
+      "importer": "gltf-scene",
+      "uuid": "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@bde5a",
+      "displayName": "",
+      "id": "bde5a",
+      "name": "Boxing.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 2.200000047683716,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "mixamo.com",
+            "from": 0,
+            "to": 2.200000047683716,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@bde5a",
+    "assetFinder": {
+      "meshes": [
+        "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@a9923",
+        "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@dc366"
+      ],
+      "skeletons": [
+        "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@438fe"
+      ],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "99fe1d29-c945-4c2e-a1c4-5d7c436ecfda@bde5a"
+      ]
+    }
+  }
+}

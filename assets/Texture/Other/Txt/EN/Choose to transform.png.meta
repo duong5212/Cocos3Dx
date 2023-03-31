@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "679a34e6-b7b0-45ef-bffd-5255f645eccd",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "Choose to transform": {
+      "ver": "1.0.4",
+      "uuid": "8194ddda-c2d5-493e-ac46-74600ec45569",
+      "rawTextureUuid": "679a34e6-b7b0-45ef-bffd-5255f645eccd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 915,
+      "height": 60,
+      "rawWidth": 915,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "679a34e6-b7b0-45ef-bffd-5255f645eccd@6c48a",
+      "displayName": "Choose to transform",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "679a34e6-b7b0-45ef-bffd-5255f645eccd",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "679a34e6-b7b0-45ef-bffd-5255f645eccd@6c48a"
+  }
+}

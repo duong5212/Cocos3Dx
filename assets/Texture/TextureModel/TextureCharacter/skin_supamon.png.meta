@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b531e6cc-59d4-4c8d-8a72-13d25bd0d00d",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "skin_supamon": {
+      "ver": "1.0.4",
+      "uuid": "8946c4b1-0881-4b1b-a63b-98b179b5139c",
+      "rawTextureUuid": "b531e6cc-59d4-4c8d-8a72-13d25bd0d00d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b531e6cc-59d4-4c8d-8a72-13d25bd0d00d@6c48a",
+      "displayName": "skin_supamon",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b531e6cc-59d4-4c8d-8a72-13d25bd0d00d",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "b531e6cc-59d4-4c8d-8a72-13d25bd0d00d@6c48a"
+  }
+}

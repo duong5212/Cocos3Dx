@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c83dcab8-8159-4569-841d-bd417a3fe01e",
+  "files": [],
+  "subMetas": {
+    "80c75": {
+      "importer": "gltf-mesh",
+      "uuid": "c83dcab8-8159-4569-841d-bd417a3fe01e@80c75",
+      "displayName": "",
+      "id": "80c75",
+      "name": "Mesh.001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c83dcab8-8159-4569-841d-bd417a3fe01e@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "c83dcab8-8159-4569-841d-bd417a3fe01e@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c83dcab8-8159-4569-841d-bd417a3fe01e@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "047ff": {
+      "importer": "gltf-material",
+      "uuid": "c83dcab8-8159-4569-841d-bd417a3fe01e@047ff",
+      "displayName": "",
+      "id": "047ff",
+      "name": "Elf_bush_Map.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b5c9": {
+      "importer": "gltf-scene",
+      "uuid": "c83dcab8-8159-4569-841d-bd417a3fe01e@7b5c9",
+      "displayName": "",
+      "id": "7b5c9",
+      "name": "_bush_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "c83dcab8-8159-4569-841d-bd417a3fe01e@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c83dcab8-8159-4569-841d-bd417a3fe01e@7b5c9",
+    "assetFinder": {
+      "meshes": [
+        "c83dcab8-8159-4569-841d-bd417a3fe01e@80c75"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c83dcab8-8159-4569-841d-bd417a3fe01e@7d6ab"
+      ],
+      "materials": [
+        "c83dcab8-8159-4569-841d-bd417a3fe01e@047ff"
+      ],
+      "scenes": [
+        "c83dcab8-8159-4569-841d-bd417a3fe01e@7b5c9"
+      ]
+    }
+  }
+}

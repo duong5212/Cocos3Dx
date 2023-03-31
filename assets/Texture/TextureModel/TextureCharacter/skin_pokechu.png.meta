@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6b03d5d9-08d7-4126-a896-c3e8bb8c897e",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "skin_pokechu": {
+      "ver": "1.0.4",
+      "uuid": "b9f1a94a-6070-4e33-bba9-9fd6e2e5a82e",
+      "rawTextureUuid": "6b03d5d9-08d7-4126-a896-c3e8bb8c897e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 427,
+      "height": 427,
+      "rawWidth": 427,
+      "rawHeight": 427,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6b03d5d9-08d7-4126-a896-c3e8bb8c897e@6c48a",
+      "displayName": "skin_pokechu",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6b03d5d9-08d7-4126-a896-c3e8bb8c897e",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "6b03d5d9-08d7-4126-a896-c3e8bb8c897e@6c48a"
+  }
+}

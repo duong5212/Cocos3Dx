@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9f25bdb1-9d09-4e86-9c5a-c287b768c4a6",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "building-new_giam": {
+      "ver": "1.0.4",
+      "uuid": "ca4b346a-3018-427e-b9ec-686ab8c0fd07",
+      "rawTextureUuid": "9f25bdb1-9d09-4e86-9c5a-c287b768c4a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 569,
+      "height": 569,
+      "rawWidth": 569,
+      "rawHeight": 569,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9f25bdb1-9d09-4e86-9c5a-c287b768c4a6@6c48a",
+      "displayName": "building-new_giam",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9f25bdb1-9d09-4e86-9c5a-c287b768c4a6",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": false,
+    "redirect": "9f25bdb1-9d09-4e86-9c5a-c287b768c4a6@6c48a"
+  }
+}

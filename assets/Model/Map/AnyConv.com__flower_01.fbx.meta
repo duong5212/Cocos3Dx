@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3cfdd72e-0383-4176-a3ef-5d85f2649347",
+  "files": [],
+  "subMetas": {
+    "84f9a": {
+      "importer": "gltf-mesh",
+      "uuid": "3cfdd72e-0383-4176-a3ef-5d85f2649347@84f9a",
+      "displayName": "",
+      "id": "84f9a",
+      "name": "flower_01_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "3cfdd72e-0383-4176-a3ef-5d85f2649347@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ccf4": {
+      "importer": "gltf-scene",
+      "uuid": "3cfdd72e-0383-4176-a3ef-5d85f2649347@4ccf4",
+      "displayName": "",
+      "id": "4ccf4",
+      "name": "AnyConv.com__flower_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3cfdd72e-0383-4176-a3ef-5d85f2649347@4ccf4",
+    "assetFinder": {
+      "meshes": [
+        "3cfdd72e-0383-4176-a3ef-5d85f2649347@84f9a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3cfdd72e-0383-4176-a3ef-5d85f2649347@ea6e2"
+      ],
+      "scenes": [
+        "3cfdd72e-0383-4176-a3ef-5d85f2649347@4ccf4"
+      ]
+    }
+  }
+}

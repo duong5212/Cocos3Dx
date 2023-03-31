@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a941b1b8-3d1d-4e4f-a50d-2b8e3fc0f24a",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "huggy_pink_bikini_black": {
+      "ver": "1.0.4",
+      "uuid": "50d77191-939a-4920-839e-e7f098c31505",
+      "rawTextureUuid": "a941b1b8-3d1d-4e4f-a50d-2b8e3fc0f24a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "a941b1b8-3d1d-4e4f-a50d-2b8e3fc0f24a@6c48a",
+      "displayName": "huggy_pink_bikini_black",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a941b1b8-3d1d-4e4f-a50d-2b8e3fc0f24a",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "a941b1b8-3d1d-4e4f-a50d-2b8e3fc0f24a@6c48a"
+  }
+}

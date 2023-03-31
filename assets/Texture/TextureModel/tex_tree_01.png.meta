@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "7eb1d1de-7ec3-4ea3-bb08-7097718dfda3",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "tex_tree_01": {
+      "ver": "1.0.4",
+      "uuid": "64487b08-ed8a-4b19-ba03-2df24463b5f7",
+      "rawTextureUuid": "7eb1d1de-7ec3-4ea3-bb08-7097718dfda3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "7eb1d1de-7ec3-4ea3-bb08-7097718dfda3@6c48a",
+      "displayName": "tex_tree_01",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7eb1d1de-7ec3-4ea3-bb08-7097718dfda3",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": false,
+    "redirect": "7eb1d1de-7ec3-4ea3-bb08-7097718dfda3@6c48a"
+  }
+}

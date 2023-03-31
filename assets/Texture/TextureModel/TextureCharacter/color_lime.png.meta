@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "5d4e2c61-fcd2-4d25-b61c-3db0212afdd9",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "color_lime": {
+      "ver": "1.0.4",
+      "uuid": "0bede28e-3efb-4127-a6a6-8d113e561688",
+      "rawTextureUuid": "5d4e2c61-fcd2-4d25-b61c-3db0212afdd9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "5d4e2c61-fcd2-4d25-b61c-3db0212afdd9@6c48a",
+      "displayName": "color_lime",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5d4e2c61-fcd2-4d25-b61c-3db0212afdd9",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": false,
+    "redirect": "5d4e2c61-fcd2-4d25-b61c-3db0212afdd9@6c48a"
+  }
+}

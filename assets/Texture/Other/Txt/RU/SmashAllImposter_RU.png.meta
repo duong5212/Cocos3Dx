@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "443c530a-ca0a-48cc-a4d3-be011230d0ea",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "SmashAllImposter_RU": {
+      "ver": "1.0.4",
+      "uuid": "1e7acee3-90dc-4267-abbc-68c52dca5598",
+      "rawTextureUuid": "443c530a-ca0a-48cc-a4d3-be011230d0ea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 245,
+      "height": 89,
+      "rawWidth": 245,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "443c530a-ca0a-48cc-a4d3-be011230d0ea@6c48a",
+      "displayName": "SmashAllImposter_RU",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "443c530a-ca0a-48cc-a4d3-be011230d0ea",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "443c530a-ca0a-48cc-a4d3-be011230d0ea@6c48a"
+  }
+}

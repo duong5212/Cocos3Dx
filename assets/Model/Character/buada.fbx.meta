@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8b38a131-02ef-422b-9b9f-d4cf558ed878",
+  "files": [],
+  "subMetas": {
+    "deb3a": {
+      "importer": "gltf-mesh",
+      "uuid": "8b38a131-02ef-422b-9b9f-d4cf558ed878@deb3a",
+      "displayName": "",
+      "id": "deb3a",
+      "name": "buada.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0bc63": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8b38a131-02ef-422b-9b9f-d4cf558ed878@0bc63",
+      "displayName": "",
+      "id": "0bc63",
+      "name": "weapon_texture_1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5e6aa": {
+      "importer": "texture",
+      "uuid": "8b38a131-02ef-422b-9b9f-d4cf558ed878@5e6aa",
+      "displayName": "",
+      "id": "5e6aa",
+      "name": "weapon_texture_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8b38a131-02ef-422b-9b9f-d4cf558ed878@0bc63"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ddfd9": {
+      "importer": "gltf-material",
+      "uuid": "8b38a131-02ef-422b-9b9f-d4cf558ed878@ddfd9",
+      "displayName": "",
+      "id": "ddfd9",
+      "name": "weapon_texture_1Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9bd8": {
+      "importer": "gltf-scene",
+      "uuid": "8b38a131-02ef-422b-9b9f-d4cf558ed878@b9bd8",
+      "displayName": "",
+      "id": "b9bd8",
+      "name": "buada.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "weapon_texture_1",
+        "uri": "8b38a131-02ef-422b-9b9f-d4cf558ed878@0bc63"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8b38a131-02ef-422b-9b9f-d4cf558ed878@b9bd8",
+    "assetFinder": {
+      "meshes": [
+        "8b38a131-02ef-422b-9b9f-d4cf558ed878@deb3a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8b38a131-02ef-422b-9b9f-d4cf558ed878@5e6aa"
+      ],
+      "materials": [
+        "8b38a131-02ef-422b-9b9f-d4cf558ed878@ddfd9"
+      ],
+      "scenes": [
+        "8b38a131-02ef-422b-9b9f-d4cf558ed878@b9bd8"
+      ]
+    }
+  }
+}
