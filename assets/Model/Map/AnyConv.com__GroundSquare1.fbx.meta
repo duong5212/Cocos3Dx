@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bc799a8f-202c-4d4a-801f-41d620dff0cf",
+  "files": [],
+  "subMetas": {
+    "d33a1": {
+      "importer": "gltf-mesh",
+      "uuid": "bc799a8f-202c-4d4a-801f-41d620dff0cf@d33a1",
+      "displayName": "",
+      "id": "d33a1",
+      "name": "GroundSquare1_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "bc799a8f-202c-4d4a-801f-41d620dff0cf@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51ba3": {
+      "importer": "gltf-scene",
+      "uuid": "bc799a8f-202c-4d4a-801f-41d620dff0cf@51ba3",
+      "displayName": "",
+      "id": "51ba3",
+      "name": "AnyConv.com__GroundSquare1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bc799a8f-202c-4d4a-801f-41d620dff0cf@51ba3",
+    "assetFinder": {
+      "meshes": [
+        "bc799a8f-202c-4d4a-801f-41d620dff0cf@d33a1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bc799a8f-202c-4d4a-801f-41d620dff0cf@ea6e2"
+      ],
+      "scenes": [
+        "bc799a8f-202c-4d4a-801f-41d620dff0cf@51ba3"
+      ]
+    }
+  }
+}

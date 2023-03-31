@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "fe0b33f9-0757-44d3-97fe-479e33ba480d",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "btnSpin": {
+      "ver": "1.0.4",
+      "uuid": "d4fe7255-d366-4b80-bd2b-d8b221ad6845",
+      "rawTextureUuid": "fe0b33f9-0757-44d3-97fe-479e33ba480d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 11,
+      "trimX": 36,
+      "trimY": 38,
+      "width": 225,
+      "height": 202,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "fe0b33f9-0757-44d3-97fe-479e33ba480d@6c48a",
+      "displayName": "btnSpin",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fe0b33f9-0757-44d3-97fe-479e33ba480d",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "fe0b33f9-0757-44d3-97fe-479e33ba480d@6c48a"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "38d4bedf-3fcc-4b72-b2a4-9a0635b5e3f0",
+  "files": [],
+  "subMetas": {
+    "52b9a": {
+      "importer": "gltf-mesh",
+      "uuid": "38d4bedf-3fcc-4b72-b2a4-9a0635b5e3f0@52b9a",
+      "displayName": "",
+      "id": "52b9a",
+      "name": "Body_Boss_Crew_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "38d4bedf-3fcc-4b72-b2a4-9a0635b5e3f0@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7cdae": {
+      "importer": "gltf-scene",
+      "uuid": "38d4bedf-3fcc-4b72-b2a4-9a0635b5e3f0@7cdae",
+      "displayName": "",
+      "id": "7cdae",
+      "name": "AnyConv.com__Body_Boss_Crew.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "38d4bedf-3fcc-4b72-b2a4-9a0635b5e3f0@7cdae",
+    "assetFinder": {
+      "meshes": [
+        "38d4bedf-3fcc-4b72-b2a4-9a0635b5e3f0@52b9a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "38d4bedf-3fcc-4b72-b2a4-9a0635b5e3f0@ea6e2"
+      ],
+      "scenes": [
+        "38d4bedf-3fcc-4b72-b2a4-9a0635b5e3f0@7cdae"
+      ]
+    }
+  }
+}

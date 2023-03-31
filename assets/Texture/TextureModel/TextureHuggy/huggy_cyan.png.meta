@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4a7e78fa-31d6-4329-9b93-7d05dc4e8ce5",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "huggy_cyan": {
+      "ver": "1.0.4",
+      "uuid": "ceac790d-aec6-4719-a0a4-3f498a89c365",
+      "rawTextureUuid": "4a7e78fa-31d6-4329-9b93-7d05dc4e8ce5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4a7e78fa-31d6-4329-9b93-7d05dc4e8ce5@6c48a",
+      "displayName": "huggy_cyan",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4a7e78fa-31d6-4329-9b93-7d05dc4e8ce5",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "4a7e78fa-31d6-4329-9b93-7d05dc4e8ce5@6c48a"
+  }
+}

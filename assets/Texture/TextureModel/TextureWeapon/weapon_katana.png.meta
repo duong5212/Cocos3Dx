@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e4c3ffb0-7208-433d-adb7-9943c55aeb01",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "weapon_katana": {
+      "ver": "1.0.4",
+      "uuid": "d7685979-9908-4aa9-8b5b-2eac96b430e8",
+      "rawTextureUuid": "e4c3ffb0-7208-433d-adb7-9943c55aeb01",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e4c3ffb0-7208-433d-adb7-9943c55aeb01@6c48a",
+      "displayName": "weapon_katana",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e4c3ffb0-7208-433d-adb7-9943c55aeb01",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": false,
+    "redirect": "e4c3ffb0-7208-433d-adb7-9943c55aeb01@6c48a"
+  }
+}

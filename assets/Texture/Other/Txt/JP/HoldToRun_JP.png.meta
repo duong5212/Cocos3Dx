@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "45b9df79-ef95-47d7-bed5-47d976d40254",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "HoldToRun_JP": {
+      "ver": "1.0.4",
+      "uuid": "5fc631bc-901f-4323-8759-7e8c6ba32284",
+      "rawTextureUuid": "45b9df79-ef95-47d7-bed5-47d976d40254",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 466,
+      "height": 93,
+      "rawWidth": 466,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "45b9df79-ef95-47d7-bed5-47d976d40254@6c48a",
+      "displayName": "HoldToRun_JP",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9df79-ef95-47d7-bed5-47d976d40254",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "45b9df79-ef95-47d7-bed5-47d976d40254@6c48a"
+  }
+}

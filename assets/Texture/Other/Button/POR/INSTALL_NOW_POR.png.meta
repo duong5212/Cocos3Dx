@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "79999635-68c5-48d8-bbf3-1685bb55c513",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "INSTALL_NOW_POR": {
+      "ver": "1.0.4",
+      "uuid": "4e0e5a24-3a1a-4ee3-944d-947cee85d9ca",
+      "rawTextureUuid": "79999635-68c5-48d8-bbf3-1685bb55c513",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 260,
+      "height": 75,
+      "rawWidth": 260,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "79999635-68c5-48d8-bbf3-1685bb55c513@6c48a",
+      "displayName": "INSTALL_NOW_POR",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "79999635-68c5-48d8-bbf3-1685bb55c513",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "79999635-68c5-48d8-bbf3-1685bb55c513@6c48a"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ee24e9a7-1c5b-4861-926c-3e9e6963508f",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "Customize your imposter_EN": {
+      "ver": "1.0.4",
+      "uuid": "bbae81b9-eb1c-4c9e-b668-457f7b89a455",
+      "rawTextureUuid": "ee24e9a7-1c5b-4861-926c-3e9e6963508f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 474,
+      "height": 119,
+      "rawWidth": 474,
+      "rawHeight": 119,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ee24e9a7-1c5b-4861-926c-3e9e6963508f@6c48a",
+      "displayName": "Customize your imposter_EN",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ee24e9a7-1c5b-4861-926c-3e9e6963508f",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "ee24e9a7-1c5b-4861-926c-3e9e6963508f@6c48a"
+  }
+}

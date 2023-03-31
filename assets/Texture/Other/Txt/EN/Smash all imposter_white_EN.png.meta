@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "56a26dc7-3e70-45af-b3d5-fb76c206afda",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "Smash all imposter_white_EN": {
+      "ver": "1.0.4",
+      "uuid": "61380188-4718-4138-85bf-4429b0ae08e3",
+      "rawTextureUuid": "56a26dc7-3e70-45af-b3d5-fb76c206afda",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 405,
+      "height": 35,
+      "rawWidth": 405,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "56a26dc7-3e70-45af-b3d5-fb76c206afda@6c48a",
+      "displayName": "Smash all imposter_white_EN",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "56a26dc7-3e70-45af-b3d5-fb76c206afda",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "56a26dc7-3e70-45af-b3d5-fb76c206afda@6c48a"
+  }
+}

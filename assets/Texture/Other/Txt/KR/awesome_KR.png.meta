@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "7dae40d4-1a55-4dd2-940e-475c1e4d2a76",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "awesome_KR": {
+      "ver": "1.0.4",
+      "uuid": "4d91e0da-d424-464c-85d9-814f96034358",
+      "rawTextureUuid": "7dae40d4-1a55-4dd2-940e-475c1e4d2a76",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 171,
+      "height": 53,
+      "rawWidth": 171,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "7dae40d4-1a55-4dd2-940e-475c1e4d2a76@6c48a",
+      "displayName": "awesome_KR",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7dae40d4-1a55-4dd2-940e-475c1e4d2a76",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "7dae40d4-1a55-4dd2-940e-475c1e4d2a76@6c48a"
+  }
+}

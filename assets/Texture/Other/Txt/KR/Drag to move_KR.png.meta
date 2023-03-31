@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9c56aa83-a630-476d-9d9a-5c9a183aee8e",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "Drag to move_KR": {
+      "ver": "1.0.4",
+      "uuid": "73e53579-eb94-45d0-84d6-9a9d798303a1",
+      "rawTextureUuid": "9c56aa83-a630-476d-9d9a-5c9a183aee8e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 394,
+      "height": 53,
+      "rawWidth": 394,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9c56aa83-a630-476d-9d9a-5c9a183aee8e@6c48a",
+      "displayName": "Drag to move_KR",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9c56aa83-a630-476d-9d9a-5c9a183aee8e",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "9c56aa83-a630-476d-9d9a-5c9a183aee8e@6c48a"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "971341b3-44b8-4833-8efd-98d3f5cfc98a",
+  "files": [],
+  "subMetas": {
+    "a88f6": {
+      "importer": "gltf-mesh",
+      "uuid": "971341b3-44b8-4833-8efd-98d3f5cfc98a@a88f6",
+      "displayName": "",
+      "id": "a88f6",
+      "name": "Mesh.011.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "971341b3-44b8-4833-8efd-98d3f5cfc98a@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "971341b3-44b8-4833-8efd-98d3f5cfc98a@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "971341b3-44b8-4833-8efd-98d3f5cfc98a@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "047ff": {
+      "importer": "gltf-material",
+      "uuid": "971341b3-44b8-4833-8efd-98d3f5cfc98a@047ff",
+      "displayName": "",
+      "id": "047ff",
+      "name": "Elf_bush_Map.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c62e9": {
+      "importer": "gltf-scene",
+      "uuid": "971341b3-44b8-4833-8efd-98d3f5cfc98a@c62e9",
+      "displayName": "",
+      "id": "c62e9",
+      "name": "_grass_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "971341b3-44b8-4833-8efd-98d3f5cfc98a@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "971341b3-44b8-4833-8efd-98d3f5cfc98a@c62e9",
+    "assetFinder": {
+      "meshes": [
+        "971341b3-44b8-4833-8efd-98d3f5cfc98a@a88f6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "971341b3-44b8-4833-8efd-98d3f5cfc98a@7d6ab"
+      ],
+      "materials": [
+        "971341b3-44b8-4833-8efd-98d3f5cfc98a@047ff"
+      ],
+      "scenes": [
+        "971341b3-44b8-4833-8efd-98d3f5cfc98a@c62e9"
+      ]
+    }
+  }
+}

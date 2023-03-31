@@ -1,0 +1,318 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 13
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa439": {
+      "importer": "gltf-mesh",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@aa439",
+      "displayName": "",
+      "id": "aa439",
+      "name": "AmongUS.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c14d1": {
+      "importer": "gltf-mesh",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@c14d1",
+      "displayName": "",
+      "id": "c14d1",
+      "name": "Luoi.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1970": {
+      "importer": "gltf-mesh",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@f1970",
+      "displayName": "",
+      "id": "f1970",
+      "name": "weapon_knife.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "420f3": {
+      "importer": "gltf-animation",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@420f3",
+      "displayName": "",
+      "id": "420f3",
+      "name": "Knife Attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 9
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f52d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@2f52d",
+      "displayName": "",
+      "id": "2f52d",
+      "name": "file54.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "612f0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@612f0",
+      "displayName": "",
+      "id": "612f0",
+      "name": "file4.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "cd412": {
+      "importer": "texture",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@cd412",
+      "displayName": "",
+      "id": "cd412",
+      "name": "file54.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a2a35533-1a69-4a5a-8f39-be85cff59e88@2f52d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91dcf": {
+      "importer": "texture",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@91dcf",
+      "displayName": "",
+      "id": "91dcf",
+      "name": "file4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a2a35533-1a69-4a5a-8f39-be85cff59e88@612f0"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9093d": {
+      "importer": "gltf-material",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@9093d",
+      "displayName": "",
+      "id": "9093d",
+      "name": "M_weapon_knife1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7f69": {
+      "importer": "gltf-scene",
+      "uuid": "a2a35533-1a69-4a5a-8f39-be85cff59e88@b7f69",
+      "displayName": "",
+      "id": "b7f69",
+      "name": "Knife Attack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file54",
+        "uri": "a2a35533-1a69-4a5a-8f39-be85cff59e88@2f52d"
+      },
+      {
+        "name": "file4",
+        "uri": "a2a35533-1a69-4a5a-8f39-be85cff59e88@612f0"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Knife Attack",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Knife Attack",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a2a35533-1a69-4a5a-8f39-be85cff59e88@b7f69",
+    "assetFinder": {
+      "meshes": [
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@aa439",
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@c14d1",
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@f1970"
+      ],
+      "skeletons": [
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@30732",
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@f1394",
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@75ee4"
+      ],
+      "textures": [
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@cd412",
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@91dcf"
+      ],
+      "materials": [
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@7a3ca",
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@9093d"
+      ],
+      "scenes": [
+        "a2a35533-1a69-4a5a-8f39-be85cff59e88@b7f69"
+      ]
+    }
+  }
+}

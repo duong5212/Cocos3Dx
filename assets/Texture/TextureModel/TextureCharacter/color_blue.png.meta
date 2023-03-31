@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "3a353fb6-7ed0-4bb8-abdf-1fe73bf8e232",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "color_blue": {
+      "ver": "1.0.4",
+      "uuid": "b3263953-3033-424e-9064-d84584b97e8d",
+      "rawTextureUuid": "3a353fb6-7ed0-4bb8-abdf-1fe73bf8e232",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "3a353fb6-7ed0-4bb8-abdf-1fe73bf8e232@6c48a",
+      "displayName": "color_blue",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3a353fb6-7ed0-4bb8-abdf-1fe73bf8e232",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": false,
+    "redirect": "3a353fb6-7ed0-4bb8-abdf-1fe73bf8e232@6c48a"
+  }
+}

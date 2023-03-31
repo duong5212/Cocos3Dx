@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6095903b-5ced-4519-a11f-fa6ddb57da9c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "CHOOSE ONE": {
+      "ver": "1.0.4",
+      "uuid": "a874f25f-804c-45ec-842b-299ee1319c7d",
+      "rawTextureUuid": "6095903b-5ced-4519-a11f-fa6ddb57da9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 503,
+      "height": 60,
+      "rawWidth": 503,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6095903b-5ced-4519-a11f-fa6ddb57da9c@6c48a",
+      "displayName": "CHOOSE ONE",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6095903b-5ced-4519-a11f-fa6ddb57da9c",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "6095903b-5ced-4519-a11f-fa6ddb57da9c@6c48a"
+  }
+}

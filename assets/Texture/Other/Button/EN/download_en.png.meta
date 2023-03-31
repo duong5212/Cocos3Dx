@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d816a64d-e724-451c-baf5-fe364efed0b3",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "download_en": {
+      "ver": "1.0.4",
+      "uuid": "fb9fd00e-94e6-46f6-8492-f17d4a5fca14",
+      "rawTextureUuid": "d816a64d-e724-451c-baf5-fe364efed0b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 262,
+      "height": 125,
+      "rawWidth": 262,
+      "rawHeight": 125,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d816a64d-e724-451c-baf5-fe364efed0b3@6c48a",
+      "displayName": "download_en",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d816a64d-e724-451c-baf5-fe364efed0b3",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "d816a64d-e724-451c-baf5-fe364efed0b3@6c48a"
+  }
+}

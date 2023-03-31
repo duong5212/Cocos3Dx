@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4ed6dfca-310c-447a-a9a9-505dbe2abecf",
+  "files": [],
+  "subMetas": {
+    "1dcb4": {
+      "importer": "gltf-mesh",
+      "uuid": "4ed6dfca-310c-447a-a9a9-505dbe2abecf@1dcb4",
+      "displayName": "",
+      "id": "1dcb4",
+      "name": "Mesh.017.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4ed6dfca-310c-447a-a9a9-505dbe2abecf@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "4ed6dfca-310c-447a-a9a9-505dbe2abecf@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4ed6dfca-310c-447a-a9a9-505dbe2abecf@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "047ff": {
+      "importer": "gltf-material",
+      "uuid": "4ed6dfca-310c-447a-a9a9-505dbe2abecf@047ff",
+      "displayName": "",
+      "id": "047ff",
+      "name": "Elf_bush_Map.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "795d4": {
+      "importer": "gltf-scene",
+      "uuid": "4ed6dfca-310c-447a-a9a9-505dbe2abecf@795d4",
+      "displayName": "",
+      "id": "795d4",
+      "name": "_stone_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "4ed6dfca-310c-447a-a9a9-505dbe2abecf@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4ed6dfca-310c-447a-a9a9-505dbe2abecf@795d4",
+    "assetFinder": {
+      "meshes": [
+        "4ed6dfca-310c-447a-a9a9-505dbe2abecf@1dcb4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "4ed6dfca-310c-447a-a9a9-505dbe2abecf@7d6ab"
+      ],
+      "materials": [
+        "4ed6dfca-310c-447a-a9a9-505dbe2abecf@047ff"
+      ],
+      "scenes": [
+        "4ed6dfca-310c-447a-a9a9-505dbe2abecf@795d4"
+      ]
+    }
+  }
+}

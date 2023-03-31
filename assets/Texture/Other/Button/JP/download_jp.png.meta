@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "206a4bab-ddc9-4fca-b65a-1ed68ce142f3",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "download_jp": {
+      "ver": "1.0.4",
+      "uuid": "92bf0b51-04fb-44f9-ba1a-f5c5cc24e308",
+      "rawTextureUuid": "206a4bab-ddc9-4fca-b65a-1ed68ce142f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 262,
+      "height": 125,
+      "rawWidth": 262,
+      "rawHeight": 125,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "206a4bab-ddc9-4fca-b65a-1ed68ce142f3@6c48a",
+      "displayName": "download_jp",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "206a4bab-ddc9-4fca-b65a-1ed68ce142f3",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "206a4bab-ddc9-4fca-b65a-1ed68ce142f3@6c48a"
+  }
+}

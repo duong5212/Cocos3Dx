@@ -1,0 +1,318 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 13
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "62177": {
+      "importer": "gltf-scene",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@62177",
+      "displayName": "",
+      "id": "62177",
+      "name": "Katana Attack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa439": {
+      "importer": "gltf-mesh",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@aa439",
+      "displayName": "",
+      "id": "aa439",
+      "name": "AmongUS.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c14d1": {
+      "importer": "gltf-mesh",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@c14d1",
+      "displayName": "",
+      "id": "c14d1",
+      "name": "Luoi.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fba80": {
+      "importer": "gltf-mesh",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@fba80",
+      "displayName": "",
+      "id": "fba80",
+      "name": "weapon_katana.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d49ab": {
+      "importer": "gltf-animation",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@d49ab",
+      "displayName": "",
+      "id": "d49ab",
+      "name": "Katana Attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 9
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f52d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@2f52d",
+      "displayName": "",
+      "id": "2f52d",
+      "name": "file54.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "5d365": {
+      "importer": "gltf-embeded-image",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@5d365",
+      "displayName": "",
+      "id": "5d365",
+      "name": "file47.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "cd412": {
+      "importer": "texture",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@cd412",
+      "displayName": "",
+      "id": "cd412",
+      "name": "file54.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90f43aa6-6212-4f80-99f8-6cbb8939495f@2f52d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d938": {
+      "importer": "texture",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@2d938",
+      "displayName": "",
+      "id": "2d938",
+      "name": "file47.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90f43aa6-6212-4f80-99f8-6cbb8939495f@5d365"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82a9d": {
+      "importer": "gltf-material",
+      "uuid": "90f43aa6-6212-4f80-99f8-6cbb8939495f@82a9d",
+      "displayName": "",
+      "id": "82a9d",
+      "name": "M_weapon_katana1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file54",
+        "uri": "90f43aa6-6212-4f80-99f8-6cbb8939495f@2f52d"
+      },
+      {
+        "name": "file47",
+        "uri": "90f43aa6-6212-4f80-99f8-6cbb8939495f@5d365"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Katana Attack",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Katana Attack",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "90f43aa6-6212-4f80-99f8-6cbb8939495f@62177",
+    "assetFinder": {
+      "meshes": [
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@aa439",
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@c14d1",
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@fba80"
+      ],
+      "skeletons": [
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@30732",
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@f1394",
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@75ee4"
+      ],
+      "textures": [
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@cd412",
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@2d938"
+      ],
+      "materials": [
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@7a3ca",
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@82a9d"
+      ],
+      "scenes": [
+        "90f43aa6-6212-4f80-99f8-6cbb8939495f@62177"
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d5804926-6714-4bca-b7d5-eb5c3273c79a",
+  "files": [],
+  "subMetas": {
+    "40961": {
+      "importer": "gltf-scene",
+      "uuid": "d5804926-6714-4bca-b7d5-eb5c3273c79a@40961",
+      "displayName": "",
+      "id": "40961",
+      "name": "_stones_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87456": {
+      "importer": "gltf-mesh",
+      "uuid": "d5804926-6714-4bca-b7d5-eb5c3273c79a@87456",
+      "displayName": "",
+      "id": "87456",
+      "name": "Mesh.019.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5804926-6714-4bca-b7d5-eb5c3273c79a@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "d5804926-6714-4bca-b7d5-eb5c3273c79a@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5804926-6714-4bca-b7d5-eb5c3273c79a@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "047ff": {
+      "importer": "gltf-material",
+      "uuid": "d5804926-6714-4bca-b7d5-eb5c3273c79a@047ff",
+      "displayName": "",
+      "id": "047ff",
+      "name": "Elf_bush_Map.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "d5804926-6714-4bca-b7d5-eb5c3273c79a@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d5804926-6714-4bca-b7d5-eb5c3273c79a@40961",
+    "assetFinder": {
+      "meshes": [
+        "d5804926-6714-4bca-b7d5-eb5c3273c79a@87456"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d5804926-6714-4bca-b7d5-eb5c3273c79a@7d6ab"
+      ],
+      "materials": [
+        "d5804926-6714-4bca-b7d5-eb5c3273c79a@047ff"
+      ],
+      "scenes": [
+        "d5804926-6714-4bca-b7d5-eb5c3273c79a@40961"
+      ]
+    }
+  }
+}

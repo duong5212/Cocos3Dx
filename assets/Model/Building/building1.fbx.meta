@@ -1,0 +1,179 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d",
+  "files": [],
+  "subMetas": {
+    "35771": {
+      "importer": "gltf-mesh",
+      "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d@35771",
+      "displayName": "",
+      "id": "35771",
+      "name": "airport_wall.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35db7": {
+      "importer": "gltf-mesh",
+      "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d@35db7",
+      "displayName": "",
+      "id": "35db7",
+      "name": "floor.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7963": {
+      "importer": "gltf-mesh",
+      "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d@f7963",
+      "displayName": "",
+      "id": "f7963",
+      "name": "building.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "23b37": {
+      "importer": "gltf-mesh",
+      "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d@23b37",
+      "displayName": "",
+      "id": "23b37",
+      "name": "airport.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6e9e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d@d6e9e",
+      "displayName": "",
+      "id": "d6e9e",
+      "name": "building_new_1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a1410": {
+      "importer": "texture",
+      "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d@a1410",
+      "displayName": "",
+      "id": "a1410",
+      "name": "building_new_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d2a9a92e-3d5f-43b5-aa23-530125da942d@d6e9e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a725c": {
+      "importer": "gltf-material",
+      "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d@a725c",
+      "displayName": "",
+      "id": "a725c",
+      "name": "building_new_1Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3edfc": {
+      "importer": "gltf-scene",
+      "uuid": "d2a9a92e-3d5f-43b5-aa23-530125da942d@3edfc",
+      "displayName": "",
+      "id": "3edfc",
+      "name": "building1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "building_new_1",
+        "uri": "d2a9a92e-3d5f-43b5-aa23-530125da942d@d6e9e"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d2a9a92e-3d5f-43b5-aa23-530125da942d@3edfc",
+    "assetFinder": {
+      "meshes": [
+        "d2a9a92e-3d5f-43b5-aa23-530125da942d@35db7",
+        "d2a9a92e-3d5f-43b5-aa23-530125da942d@f7963",
+        "d2a9a92e-3d5f-43b5-aa23-530125da942d@23b37",
+        "d2a9a92e-3d5f-43b5-aa23-530125da942d@35771"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d2a9a92e-3d5f-43b5-aa23-530125da942d@a1410"
+      ],
+      "materials": [
+        "d2a9a92e-3d5f-43b5-aa23-530125da942d@a725c"
+      ],
+      "scenes": [
+        "d2a9a92e-3d5f-43b5-aa23-530125da942d@3edfc"
+      ]
+    }
+  }
+}

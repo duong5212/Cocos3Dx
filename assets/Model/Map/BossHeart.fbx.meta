@@ -1,0 +1,118 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "64de3171-8b26-43de-867d-02701ec88991",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb"
+  ],
+  "subMetas": {
+    "4258f": {
+      "importer": "gltf-animation",
+      "uuid": "64de3171-8b26-43de-867d-02701ec88991@4258f",
+      "displayName": "",
+      "id": "4258f",
+      "name": "boss_heart_appear.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e67f0": {
+      "importer": "gltf-animation",
+      "uuid": "64de3171-8b26-43de-867d-02701ec88991@e67f0",
+      "displayName": "",
+      "id": "e67f0",
+      "name": "boss_heart_empty.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "a53fa": {
+      "importer": "gltf-scene",
+      "uuid": "64de3171-8b26-43de-867d-02701ec88991@a53fa",
+      "displayName": "",
+      "id": "a53fa",
+      "name": "BossHeart.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "boss_heart_appear",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "boss_heart_appear",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "boss_heart_empty",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "boss_heart_empty",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "64de3171-8b26-43de-867d-02701ec88991@a53fa",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "64de3171-8b26-43de-867d-02701ec88991@a53fa"
+      ]
+    }
+  }
+}
